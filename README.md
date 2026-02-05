@@ -152,13 +152,17 @@ cp ~/Downloads/st-link-server-v2-1-*.zip ~/.cache/yay/stlink-server/
 <br>
 
 8. Start the [AUR installation script](https://aur.archlinux.org/packages/stm32cubeide) for the STM32CUBEIDE: 
+
 `yay -S stm32cubeide`
+
 When yay asks whether you want to create the packages anew, answer **`[N]None`**. If you answer `[Y]All`, the downloaded ZIP-files will be deleted and not used. 
 
 <br>
 
 9. Enable your user to allow the firmware flashing to usb devices:
+
 `sudo usermod -aG uucp $USER`
+
 Log off from your user and log in again to activate the group change. 
 
 <br>
