@@ -4,7 +4,7 @@ The module was taken in German.
 
 This Readme file contains setup instructions for Windows as well as (Arch) Linux.
 
-## Setup on VSCode (Windows)
+## VSCode Setup fpr C (Windows)
 
 Follow these instructions to the end to successfully run the C-Code of this project on your Windows machine. 
 
@@ -37,5 +37,26 @@ Follow these instructions to the end to successfully run the C-Code of this proj
 
 10. Restart VSCode after finishing and run your .c-file over the button on the top right of your code window. If not successfull, restart your computer. 
 
-## Setup on (Arch) Linux 
+## VSCodium Setup on (Arch) Linux 
 
+Install an VSCodium on your Linux System. In our case on Arch Linux: 
+
+`yay -S vscodium`
+
+Install Github Desktop on your distro: 
+
+`yay -S github-desktop`
+
+Log in to Github Desktop with your personal account and pull the repository to your local device storage.
+
+Open the repository in VSCodium and install the following extensions: 
+
+- formulahendry.code-runner
+- bmd.stm32-for-vscode
+- llvm-vs-code-extensions.vscode-clangd
+
+Also install the following package for syntax-highlighting and other useful features for C Code: 
+
+`sudo pacman -S clang`
+
+Restart the IDE afterwards and run the local C Code over the Graphical Interface on the top right. 
