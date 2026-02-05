@@ -103,6 +103,7 @@ Alternatively download the software package from the [ST-website](https://www.st
 2. Prepare your system for the installation with the necessary packages: 
 
 `sudo pacman -S --needed base-devel git`
+
 <br>
 
 3. Install additional dependencies for the installation: 
@@ -142,6 +143,7 @@ cp ~/Downloads/st-link-server-v2-1-*.zip ~/.cache/yay/stlink-server/
 `yay -S stm32cubeide`
 
 When yay asks whether you want to create the packages anew, answer **`[N]None`**. If you answer `[Y]All`, the downloaded ZIP-files will be deleted and not used. 
+
 <br>
 
 9. Enable your user to allow the firmware flashing to usb devices:
@@ -149,6 +151,7 @@ When yay asks whether you want to create the packages anew, answer **`[N]None`**
 `sudo usermod -aG uucp $USER`
 
 Log off from your user and log in again to activate the group change. 
+
 <br>
 
 10. Start the IDE and commence the setup of the STM  controller according to the official instructions. 
