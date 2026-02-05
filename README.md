@@ -4,7 +4,8 @@ The module was taken in German.
 
 This Readme file contains setup instructions for Windows as well as (Arch) Linux.
 
-## VSCode Setup fpr C (Windows)
+
+## VSCode Setup for C (Windows)
 
 Follow these instructions to the end to successfully run the C-Code of this project on your Windows machine. 
 
@@ -36,6 +37,7 @@ Follow these instructions to the end to successfully run the C-Code of this proj
 `C:\msys64\ucrt64\bin`
 
 10. Restart VSCode after finishing and run your .c-file over the button on the top right of your code window. If not successfull, restart your computer. 
+
 
 ## VSCodium Setup on (Arch) Linux 
 
