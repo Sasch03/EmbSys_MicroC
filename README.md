@@ -54,11 +54,13 @@ C:\msys64\ucrt64\bin`
 1. Install an VSCodium on your Linux System. In our case on Arch Linux: 
 
 `yay -S vscodium`
+
 <br>
 
 2. Install Github Desktop on your distro: 
 
 `yay -S github-desktop`
+
 <br>
 
 3. Log in to Github Desktop with your personal account and pull the repository to your local device storage.
@@ -74,6 +76,7 @@ C:\msys64\ucrt64\bin`
 5. Also install the following package for syntax-highlighting and other useful features for C Code: 
 
 `sudo pacman -S clang`
+
 <br>
 
 6. Restart the IDE afterwards and run the local C Code over the Graphical Interface on the top right. 
