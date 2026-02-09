@@ -1,0 +1,280 @@
+!SESSION 2026-02-04 15:13:53.741 -----------------------------------------------
+eclipse.buildId=Version 2.0.0
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-02-04 15:14:48.891
+!MESSAGE Log4j2 initialized with config file C:\Users\sasch\Documents\GitHub\EmbSys_MicroC\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-02-04 15:14:57.495
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-04 15:14:59.184
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-04 15:14:59.185
+!MESSAGE port: 
+!SESSION 2026-02-05 03:59:26.313 -----------------------------------------------
+eclipse.buildId=Version 2.0.0
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-02-05 03:59:54.377
+!MESSAGE Log4j2 initialized with config file C:\Users\sasch\Documents\GitHub\EmbSys_MicroC\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-02-05 03:59:58.966
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-05 04:00:00.857
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-05 04:00:00.857
+!MESSAGE port: COM4
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-05 04:03:24.864
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-05 04:03:24.864
+!MESSAGE port: 
+!SESSION 2026-02-09 16:25:32.764 -----------------------------------------------
+eclipse.buildId=Version 2.0.0
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-02-09 16:26:18.413
+!MESSAGE Log4j2 initialized with config file C:\Users\sasch\Documents\GitHub\EmbSys_MicroC\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-02-09 16:26:26.291
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 16:26:32.052
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 16:26:32.053
+!MESSAGE port: COM4
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-09 16:27:31.218
+!MESSAGE Indexed 'EmbedSys1' (0 sources, 0 headers) in 0,002 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-09 16:30:35.095
+!MESSAGE Indexed 'EmbedSys2' (3 sources, 53 headers) in 2,45 sec: 1.954 declarations; 2.863 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0,042 %)
+!SESSION 2026-02-09 16:37:25.047 -----------------------------------------------
+eclipse.buildId=Version 2.0.0
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-02-09 16:38:10.299
+!MESSAGE Log4j2 initialized with config file C:\Users\sasch\Documents\GitHub\EmbSys_MicroC\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-02-09 16:38:21.886
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 16:38:25.440
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 16:38:25.442
+!MESSAGE port: COM4
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-09 16:45:42.406
+!MESSAGE Indexed 'EmbedSys5' (3 sources, 53 headers) in 2,07 sec: 1.954 declarations; 2.863 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0,042 %)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 16:50:31.679
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 16:50:31.680
+!MESSAGE port: 
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 16:53:50.168
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 16:53:50.169
+!MESSAGE port: COM4
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-09 16:57:09.560
+!MESSAGE Indexed 'EmbedSys6' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-09 16:58:04.250
+!MESSAGE Indexed 'EmbedSys7' (3 sources, 53 headers) in 0,652 sec: 1.954 declarations; 2.863 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0,042 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-09 16:58:57.070
+!MESSAGE Indexed 'EmbedSys8' (1 sources, 0 headers) in 0,009 sec: 2 declarations; 1 references; 2 unresolved inclusions; 0 syntax errors; 1 unresolved names (25 %)
+!SESSION 2026-02-09 17:14:50.534 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-02-09 17:15:27.441
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-02-09 17:15:27.444
+!MESSAGE Log4j2 initialized with config file C:\Users\sasch\Documents\GitHub\EmbSys_MicroC\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-02-09 17:15:47.294
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.touchpoint.natives 2 0 2026-02-09 17:29:23.570
+!MESSAGE Could not remove temporary backup directory (it is safe to manually delete it and its contents): C:\Users\sasch\AppData\Local\Temp\STM32CubeIDE_64699b46-d47e-4bd0-b457-ea109eb710e5
+
+!ENTRY org.eclipse.ui.ide 4 4 2026-02-09 17:29:42.812
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2026-02-09 17:29:42.819
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-09 17:29:42.819
+!MESSAGE The project description file (.project) for 'EmbedSys2' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-09 17:29:42.819
+!MESSAGE The project description file (.project) for 'EmbedSys4' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-09 17:29:42.819
+!MESSAGE The project description file (.project) for 'EmbedSys5' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-09 17:29:42.819
+!MESSAGE The project description file (.project) for 'EmbedSys6' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-09 17:29:42.819
+!MESSAGE The project description file (.project) for 'EmbedSys7' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-09 17:29:42.819
+!MESSAGE The project description file (.project) for 'EmbedSys8' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SESSION 2026-02-09 17:29:43.385 -----------------------------------------------
+eclipse.buildId=Version 2.0.0
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data file:/C:/Users/sasch/Documents/GitHub/EmbSys_MicroC/
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-02-09 17:29:50.226
+!MESSAGE Log4j2 initialized with config file C:\Users\sasch\Documents\GitHub\EmbSys_MicroC\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2026-02-09 17:29:52.967
+!MESSAGE Removing PartDescriptorImpl with the "com.st.stm32cube.common.mx.views.OutputsView" id and the "Outputs" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-02-09 17:29:55.466
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.codan.core 4 1 2026-02-09 17:29:57.318
+!MESSAGE Internal Error
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.cdt.managedbuilder.core.IManagedBuildInfo.getDefaultConfiguration()" because the return value of "org.eclipse.cdt.managedbuilder.core.ManagedBuildManager.getBuildInfo(org.eclipse.core.resources.IResource)" is null
+	at com.st.stm32cube.ide.mcu.ide.oss.source.checker.MCUFloatFormattingSupportChecker.processAst(MCUFloatFormattingSupportChecker.java:84)
+	at org.eclipse.cdt.codan.core.cxx.model.AbstractIndexAstChecker.processModel(AbstractIndexAstChecker.java:116)
+	at org.eclipse.cdt.codan.internal.core.CodanRunner.processResource(CodanRunner.java:96)
+	at org.eclipse.cdt.codan.internal.core.CodanRunner.runInEditor(CodanRunner.java:50)
+	at org.eclipse.cdt.codan.internal.core.CodanBuilder.processResource(CodanBuilder.java:130)
+	at org.eclipse.cdt.codan.core.cxx.internal.model.CxxCodanReconciler.reconciledAst(CxxCodanReconciler.java:40)
+	at org.eclipse.cdt.codan.internal.ui.cxx.CodanCReconciler.reconciled(CodanCReconciler.java:60)
+	at org.eclipse.cdt.internal.ui.editor.CEditor.reconciled(CEditor.java:3107)
+	at org.eclipse.cdt.internal.ui.text.CReconcilingStrategy.reconcile(CReconcilingStrategy.java:100)
+	at org.eclipse.cdt.internal.ui.text.CReconcilingStrategy.initialReconcile(CReconcilingStrategy.java:123)
+	at org.eclipse.cdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:119)
+	at org.eclipse.cdt.internal.ui.text.CCompositeReconcilingStrategy.initialReconcile(CCompositeReconcilingStrategy.java:108)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:100)
+	at org.eclipse.cdt.internal.ui.text.CReconciler.initialProcess(CReconciler.java:335)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 17:29:58.187
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 17:29:58.189
+!MESSAGE port: COM4
+
+!ENTRY org.eclipse.core.resources 2 2 2026-02-09 17:34:53.203
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-09 17:34:53.203
+!MESSAGE The project description file (.project) for 'EmbedSys2' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-09 17:34:53.203
+!MESSAGE The project description file (.project) for 'EmbedSys4' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-09 17:34:53.203
+!MESSAGE The project description file (.project) for 'EmbedSys5' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-09 17:34:53.203
+!MESSAGE The project description file (.project) for 'EmbedSys6' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-09 17:34:53.203
+!MESSAGE The project description file (.project) for 'EmbedSys7' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-09 17:34:53.203
+!MESSAGE The project description file (.project) for 'EmbedSys8' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-09 17:35:59.456
+!MESSAGE Indexed 'EmbedSys10' (24 sources, 146 headers) in 6,01 sec: 13.162 declarations; 52.859 references; 7 unresolved inclusions; 173 syntax errors; 1.332 unresolved names (2 %)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 17:40:32.090
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 17:40:32.090
+!MESSAGE port: 
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2026-02-09 17:40:37.465
+!MESSAGE Error in final launch sequence:
+
+Failed to execute MI command:
+load C:\\Users\\sasch\\Documents\\GitHub\\EmbSys_MicroC\\EmbedSys10\\Debug\\EmbedSys10.elf 
+
+Error message from debugger back end:
+Remote communication error.  Target disconnected: Not a directory.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to execute MI command:
+load C:\\Users\\sasch\\Documents\\GitHub\\EmbSys_MicroC\\EmbedSys10\\Debug\\EmbedSys10.elf 
+
+Error message from debugger back end:
+Remote communication error.  Target disconnected: Not a directory.
+	at org.eclipse.cdt.dsf.concurrent.Query.get(Query.java:112)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:252)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:109)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:97)
+	at com.st.stm32cube.ide.mcu.debug.launch.DSFDelegate.launch(DSFDelegate.java:331)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:805)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:716)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1054)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1257)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Failed to execute MI command:
+load C:\\Users\\sasch\\Documents\\GitHub\\EmbSys_MicroC\\EmbedSys10\\Debug\\EmbedSys10.elf 
+
+Error message from debugger back end:
+Remote communication error.  Target disconnected: Not a directory.
+java.lang.Exception: Remote communication error.  Target disconnected: Not a directory.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:1024)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:853)
+!SUBENTRY 1 org.eclipse.cdt.dsf 4 10004 2026-02-09 17:40:37.466
+!MESSAGE Failed to execute MI command:
+load C:\\Users\\sasch\\Documents\\GitHub\\EmbSys_MicroC\\EmbedSys10\\Debug\\EmbedSys10.elf 
+
+Error message from debugger back end:
+Remote communication error.  Target disconnected: Not a directory.
+!SUBENTRY 2 org.eclipse.cdt.dsf.gdb 4 10004 2026-02-09 17:40:37.466
+!MESSAGE Failed to execute MI command:
+load C:\\Users\\sasch\\Documents\\GitHub\\EmbSys_MicroC\\EmbedSys10\\Debug\\EmbedSys10.elf 
+
+Error message from debugger back end:
+Remote communication error.  Target disconnected: Not a directory.
+!STACK 0
+java.lang.Exception: Remote communication error.  Target disconnected: Not a directory.
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:1024)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:853)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 17:46:23.267
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM4
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-02-09 17:46:23.268
+!MESSAGE port: COM4
